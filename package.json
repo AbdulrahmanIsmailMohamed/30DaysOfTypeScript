@@ -1,0 +1,18 @@
+{
+  "name": "30daysoftypescript",
+  "version": "1.0.0",
+  "description": "30 Days Of Typescript leetcodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TypeScript",
+    "leetcodes"
+  ],
+  "author": "Abdulrahman Ismail",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
